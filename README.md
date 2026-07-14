@@ -35,7 +35,4 @@ a minimalist desktop app that calculates factorials with a sleek black-and-white
 
 📂 files:  
 - factorial_calculator.py – main application code  
-- (optional) history.txt – exported calculation history  
-
-🤝 feedback & contributions:  
-feel free to tweak colors, fonts, or features to match your style. every small change can make the app feel more yours. 😊  
+- (optional) history.txt – exported calculation history 
