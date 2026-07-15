@@ -1,6 +1,6 @@
 🧮 factorial calculator  
 
-a minimalist desktop app that calculates factorials with a sleek black-and-white design. 🌑✨  
+this is a minimalist desktop app that calculates factorials with a sleek black-and-white design. 🌑✨  
 
 🔢 what it does:  
 - asks the user to enter a positive integer  
@@ -36,3 +36,5 @@ a minimalist desktop app that calculates factorials with a sleek black-and-white
 📂 files:  
 - factorial_calculator.py – main application code  
 - (optional) history.txt – exported calculation history 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9aa80908-3f32-4b71-8b9c-58fe62291701" />
